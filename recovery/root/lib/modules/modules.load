@@ -81,6 +81,7 @@ mtk-mml-mt6897.ko
 drm_dma_helper.ko
 mtk_panel_ext.ko
 panel-n11a-42-02-0a-dsc-vdo.ko
+panel-n11a-41-02-0b-dsc-vdo.ko
 panel-alpha-jdi-nt36672e-vdo-60hz.ko
 panel-alpha-jdi-nt36672e-vdo-120hz.ko
 panel-alpha-jdi-nt36672e-cphy-vdo.ko

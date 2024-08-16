@@ -132,7 +132,9 @@ TW_INCLUDE_RESETPROP := true
 TW_INCLUDE_LIBRESETPROP := true
 TW_EXCLUDE_APEX := true
 TW_EXCLUDE_TWRPAPP := true
-TW_DEVICE_VERSION := crypton--
+TW_EXCLUDE_PYTHON := true
+TW_EXCLUDE_SUPERSU := true
+TW_DEVICE_VERSION := TheFormidable
 
 # Workaround for copy out error
 TARGET_COPY_OUT_VENDOR := vendor

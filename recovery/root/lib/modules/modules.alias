@@ -90,6 +90,8 @@ alias of:N*T*Cmediatek,mt6377-battery_oc_throttling mtk_battery_oc_throttling
 alias of:N*T*Cmediatek,mt6377-battery_oc_throttlingC* mtk_battery_oc_throttling
 alias of:N*T*Crichtek,rt5133 rt5133_regulator
 alias of:N*T*Crichtek,rt5133C* rt5133_regulator
+alias of:N*T*Cn11a_41_02_0b_dsc_vdo,lcm panel_n11a_41_02_0b_dsc_vdo
+alias of:N*T*Cn11a_41_02_0b_dsc_vdo,lcmC* panel_n11a_41_02_0b_dsc_vdo
 alias of:N*T*Cmediatek,mt8173-mtu3 mtu3
 alias of:N*T*Cmediatek,mt8173-mtu3C* mtu3
 alias of:N*T*Cmediatek,mtu3 mtu3
@@ -1254,6 +1256,8 @@ alias of:N*T*Cmediatek,mt6897-dvfsrc mtk_emi
 alias of:N*T*Cmediatek,mt6897-dvfsrcC* mtk_emi
 alias of:N*T*Cmediatek,mt6989-dvfsrc mtk_emi
 alias of:N*T*Cmediatek,mt6989-dvfsrcC* mtk_emi
+alias of:N*T*Cfocaltech,n11a-3683g-spi focaltech_touch
+alias of:N*T*Cfocaltech,n11a-3683g-spiC* focaltech_touch
 alias of:N*T*Cmediatek,charger,pe45 mtk_pep45
 alias of:N*T*Cmediatek,charger,pe45C* mtk_pep45
 alias platform:mt6363-regulator mt6363_regulator
